@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -type df | sort -u 
+find . -empty -type d,f | sort -u 
