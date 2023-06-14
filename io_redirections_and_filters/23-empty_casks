@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type df | sort -uc
+find . - -type df | sort -u 
